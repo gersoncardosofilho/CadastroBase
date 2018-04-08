@@ -1,0 +1,11 @@
+D:\Repositories\Core\MySampleCadastroProject\MySampleCadastroProject.Api\MySampleCadastroProject.Api\bin\Debug\netcoreapp2.0\MySampleCadastroProject.Api.deps.json
+D:\Repositories\Core\MySampleCadastroProject\MySampleCadastroProject.Api\MySampleCadastroProject.Api\bin\Debug\netcoreapp2.0\MySampleCadastroProject.Api.runtimeconfig.json
+D:\Repositories\Core\MySampleCadastroProject\MySampleCadastroProject.Api\MySampleCadastroProject.Api\bin\Debug\netcoreapp2.0\MySampleCadastroProject.Api.runtimeconfig.dev.json
+D:\Repositories\Core\MySampleCadastroProject\MySampleCadastroProject.Api\MySampleCadastroProject.Api\bin\Debug\netcoreapp2.0\MySampleCadastroProject.Api.dll
+D:\Repositories\Core\MySampleCadastroProject\MySampleCadastroProject.Api\MySampleCadastroProject.Api\bin\Debug\netcoreapp2.0\MySampleCadastroProject.Api.pdb
+D:\Repositories\Core\MySampleCadastroProject\MySampleCadastroProject.Api\MySampleCadastroProject.Api\obj\Debug\netcoreapp2.0\MySampleCadastroProject.Api.csprojResolveAssemblyReference.cache
+D:\Repositories\Core\MySampleCadastroProject\MySampleCadastroProject.Api\MySampleCadastroProject.Api\obj\Debug\netcoreapp2.0\MySampleCadastroProject.Api.csproj.CoreCompileInputs.cache
+D:\Repositories\Core\MySampleCadastroProject\MySampleCadastroProject.Api\MySampleCadastroProject.Api\obj\Debug\netcoreapp2.0\MySampleCadastroProject.Api.AssemblyInfoInputs.cache
+D:\Repositories\Core\MySampleCadastroProject\MySampleCadastroProject.Api\MySampleCadastroProject.Api\obj\Debug\netcoreapp2.0\MySampleCadastroProject.Api.AssemblyInfo.cs
+D:\Repositories\Core\MySampleCadastroProject\MySampleCadastroProject.Api\MySampleCadastroProject.Api\obj\Debug\netcoreapp2.0\MySampleCadastroProject.Api.dll
+D:\Repositories\Core\MySampleCadastroProject\MySampleCadastroProject.Api\MySampleCadastroProject.Api\obj\Debug\netcoreapp2.0\MySampleCadastroProject.Api.pdb

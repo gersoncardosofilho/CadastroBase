@@ -1,0 +1,14 @@
+D:\Repositories\Core\MySampleCadastroProject\.vs\MySampleCadastroProject\lut\0\b\MySampleCadastroProject.Tests\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Repositories\Core\MySampleCadastroProject\.vs\MySampleCadastroProject\lut\0\b\MySampleCadastroProject.Tests\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+D:\Repositories\Core\MySampleCadastroProject\.vs\MySampleCadastroProject\lut\0\b\MySampleCadastroProject.Tests\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+D:\Repositories\Core\MySampleCadastroProject\.vs\MySampleCadastroProject\lut\0\b\MySampleCadastroProject.Tests\Debug\netcoreapp2.0\MySampleCadastroProject.Tests.deps.json
+D:\Repositories\Core\MySampleCadastroProject\.vs\MySampleCadastroProject\lut\0\b\MySampleCadastroProject.Tests\Debug\netcoreapp2.0\MySampleCadastroProject.Tests.runtimeconfig.json
+D:\Repositories\Core\MySampleCadastroProject\.vs\MySampleCadastroProject\lut\0\b\MySampleCadastroProject.Tests\Debug\netcoreapp2.0\MySampleCadastroProject.Tests.runtimeconfig.dev.json
+D:\Repositories\Core\MySampleCadastroProject\.vs\MySampleCadastroProject\lut\0\b\MySampleCadastroProject.Tests\Debug\netcoreapp2.0\MySampleCadastroProject.Tests.dll
+D:\Repositories\Core\MySampleCadastroProject\.vs\MySampleCadastroProject\lut\0\b\MySampleCadastroProject.Tests\Debug\netcoreapp2.0\MySampleCadastroProject.Tests.pdb
+D:\Repositories\Core\MySampleCadastroProject\.vs\MySampleCadastroProject\lut\0\i\MySampleCadastroProject.Tests\Debug\netcoreapp2.0\MySampleCadastroProject.Tests.csproj.CoreCompileInputs.cache
+D:\Repositories\Core\MySampleCadastroProject\.vs\MySampleCadastroProject\lut\0\i\MySampleCadastroProject.Tests\Debug\netcoreapp2.0\MySampleCadastroProject.Tests.AssemblyInfoInputs.cache
+D:\Repositories\Core\MySampleCadastroProject\.vs\MySampleCadastroProject\lut\0\i\MySampleCadastroProject.Tests\Debug\netcoreapp2.0\MySampleCadastroProject.Tests.AssemblyInfo.cs
+D:\Repositories\Core\MySampleCadastroProject\.vs\MySampleCadastroProject\lut\0\i\MySampleCadastroProject.Tests\Debug\netcoreapp2.0\MySampleCadastroProject.Tests.csproj.CopyComplete
+D:\Repositories\Core\MySampleCadastroProject\.vs\MySampleCadastroProject\lut\0\i\MySampleCadastroProject.Tests\Debug\netcoreapp2.0\MySampleCadastroProject.Tests.dll
+D:\Repositories\Core\MySampleCadastroProject\.vs\MySampleCadastroProject\lut\0\i\MySampleCadastroProject.Tests\Debug\netcoreapp2.0\MySampleCadastroProject.Tests.pdb

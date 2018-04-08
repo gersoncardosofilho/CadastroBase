@@ -1,0 +1,10 @@
+D:\Repositories\Core\MySampleCadastroProject\.vs\MySampleCadastroProject\lut\0\b\MySampleCadastroProject.Domain\Debug\netstandard2.0\MySampleCadastroProject.Domain.deps.json
+D:\Repositories\Core\MySampleCadastroProject\.vs\MySampleCadastroProject\lut\0\b\MySampleCadastroProject.Domain\Debug\netstandard2.0\MySampleCadastroProject.Domain.dll
+D:\Repositories\Core\MySampleCadastroProject\.vs\MySampleCadastroProject\lut\0\b\MySampleCadastroProject.Domain\Debug\netstandard2.0\MySampleCadastroProject.Domain.pdb
+D:\Repositories\Core\MySampleCadastroProject\.vs\MySampleCadastroProject\lut\0\i\MySampleCadastroProject.Domain\Debug\netstandard2.0\MySampleCadastroProject.Domain.csprojResolveAssemblyReference.cache
+D:\Repositories\Core\MySampleCadastroProject\.vs\MySampleCadastroProject\lut\0\i\MySampleCadastroProject.Domain\Debug\netstandard2.0\MySampleCadastroProject.Domain.csproj.CoreCompileInputs.cache
+D:\Repositories\Core\MySampleCadastroProject\.vs\MySampleCadastroProject\lut\0\i\MySampleCadastroProject.Domain\Debug\netstandard2.0\MySampleCadastroProject.Domain.AssemblyInfoInputs.cache
+D:\Repositories\Core\MySampleCadastroProject\.vs\MySampleCadastroProject\lut\0\i\MySampleCadastroProject.Domain\Debug\netstandard2.0\MySampleCadastroProject.Domain.AssemblyInfo.cs
+D:\Repositories\Core\MySampleCadastroProject\.vs\MySampleCadastroProject\lut\0\i\MySampleCadastroProject.Domain\Debug\netstandard2.0\MySampleCadastroProject.Domain.csproj.CopyComplete
+D:\Repositories\Core\MySampleCadastroProject\.vs\MySampleCadastroProject\lut\0\i\MySampleCadastroProject.Domain\Debug\netstandard2.0\MySampleCadastroProject.Domain.dll
+D:\Repositories\Core\MySampleCadastroProject\.vs\MySampleCadastroProject\lut\0\i\MySampleCadastroProject.Domain\Debug\netstandard2.0\MySampleCadastroProject.Domain.pdb

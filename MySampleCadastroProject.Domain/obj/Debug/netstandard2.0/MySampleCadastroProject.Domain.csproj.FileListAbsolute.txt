@@ -1,0 +1,9 @@
+D:\Repositories\Core\MySampleCadastroProject\MySampleCadastroProject.Domain\bin\Debug\netstandard2.0\MySampleCadastroProject.Domain.deps.json
+D:\Repositories\Core\MySampleCadastroProject\MySampleCadastroProject.Domain\bin\Debug\netstandard2.0\MySampleCadastroProject.Domain.dll
+D:\Repositories\Core\MySampleCadastroProject\MySampleCadastroProject.Domain\obj\Debug\netstandard2.0\MySampleCadastroProject.Domain.csprojResolveAssemblyReference.cache
+D:\Repositories\Core\MySampleCadastroProject\MySampleCadastroProject.Domain\obj\Debug\netstandard2.0\MySampleCadastroProject.Domain.csproj.CoreCompileInputs.cache
+D:\Repositories\Core\MySampleCadastroProject\MySampleCadastroProject.Domain\obj\Debug\netstandard2.0\MySampleCadastroProject.Domain.AssemblyInfoInputs.cache
+D:\Repositories\Core\MySampleCadastroProject\MySampleCadastroProject.Domain\obj\Debug\netstandard2.0\MySampleCadastroProject.Domain.AssemblyInfo.cs
+D:\Repositories\Core\MySampleCadastroProject\MySampleCadastroProject.Domain\bin\Debug\netstandard2.0\MySampleCadastroProject.Domain.pdb
+D:\Repositories\Core\MySampleCadastroProject\MySampleCadastroProject.Domain\obj\Debug\netstandard2.0\MySampleCadastroProject.Domain.dll
+D:\Repositories\Core\MySampleCadastroProject\MySampleCadastroProject.Domain\obj\Debug\netstandard2.0\MySampleCadastroProject.Domain.pdb

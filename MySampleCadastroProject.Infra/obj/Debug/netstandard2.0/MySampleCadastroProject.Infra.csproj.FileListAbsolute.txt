@@ -1,0 +1,9 @@
+D:\Repositories\Core\MySampleCadastroProject\MySampleCadastroProject.Infra\bin\Debug\netstandard2.0\MySampleCadastroProject.Infra.deps.json
+D:\Repositories\Core\MySampleCadastroProject\MySampleCadastroProject.Infra\bin\Debug\netstandard2.0\MySampleCadastroProject.Infra.dll
+D:\Repositories\Core\MySampleCadastroProject\MySampleCadastroProject.Infra\bin\Debug\netstandard2.0\MySampleCadastroProject.Infra.pdb
+D:\Repositories\Core\MySampleCadastroProject\MySampleCadastroProject.Infra\obj\Debug\netstandard2.0\MySampleCadastroProject.Infra.csprojResolveAssemblyReference.cache
+D:\Repositories\Core\MySampleCadastroProject\MySampleCadastroProject.Infra\obj\Debug\netstandard2.0\MySampleCadastroProject.Infra.csproj.CoreCompileInputs.cache
+D:\Repositories\Core\MySampleCadastroProject\MySampleCadastroProject.Infra\obj\Debug\netstandard2.0\MySampleCadastroProject.Infra.AssemblyInfoInputs.cache
+D:\Repositories\Core\MySampleCadastroProject\MySampleCadastroProject.Infra\obj\Debug\netstandard2.0\MySampleCadastroProject.Infra.AssemblyInfo.cs
+D:\Repositories\Core\MySampleCadastroProject\MySampleCadastroProject.Infra\obj\Debug\netstandard2.0\MySampleCadastroProject.Infra.dll
+D:\Repositories\Core\MySampleCadastroProject\MySampleCadastroProject.Infra\obj\Debug\netstandard2.0\MySampleCadastroProject.Infra.pdb

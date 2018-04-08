@@ -1,0 +1,12 @@
+D:\Repositories\Core\MySampleCadastroProject\.vs\MySampleCadastroProject\lut\0\b\MySampleCadastroProject.Api\Debug\netcoreapp2.0\MySampleCadastroProject.Api.deps.json
+D:\Repositories\Core\MySampleCadastroProject\.vs\MySampleCadastroProject\lut\0\b\MySampleCadastroProject.Api\Debug\netcoreapp2.0\MySampleCadastroProject.Api.runtimeconfig.json
+D:\Repositories\Core\MySampleCadastroProject\.vs\MySampleCadastroProject\lut\0\b\MySampleCadastroProject.Api\Debug\netcoreapp2.0\MySampleCadastroProject.Api.runtimeconfig.dev.json
+D:\Repositories\Core\MySampleCadastroProject\.vs\MySampleCadastroProject\lut\0\b\MySampleCadastroProject.Api\Debug\netcoreapp2.0\MySampleCadastroProject.Api.dll
+D:\Repositories\Core\MySampleCadastroProject\.vs\MySampleCadastroProject\lut\0\b\MySampleCadastroProject.Api\Debug\netcoreapp2.0\MySampleCadastroProject.Api.pdb
+D:\Repositories\Core\MySampleCadastroProject\.vs\MySampleCadastroProject\lut\0\i\MySampleCadastroProject.Api\Debug\netcoreapp2.0\MySampleCadastroProject.Api.csprojResolveAssemblyReference.cache
+D:\Repositories\Core\MySampleCadastroProject\.vs\MySampleCadastroProject\lut\0\i\MySampleCadastroProject.Api\Debug\netcoreapp2.0\MySampleCadastroProject.Api.csproj.CoreCompileInputs.cache
+D:\Repositories\Core\MySampleCadastroProject\.vs\MySampleCadastroProject\lut\0\i\MySampleCadastroProject.Api\Debug\netcoreapp2.0\MySampleCadastroProject.Api.AssemblyInfoInputs.cache
+D:\Repositories\Core\MySampleCadastroProject\.vs\MySampleCadastroProject\lut\0\i\MySampleCadastroProject.Api\Debug\netcoreapp2.0\MySampleCadastroProject.Api.AssemblyInfo.cs
+D:\Repositories\Core\MySampleCadastroProject\.vs\MySampleCadastroProject\lut\0\i\MySampleCadastroProject.Api\Debug\netcoreapp2.0\MySampleCadastroProject.Api.csproj.CopyComplete
+D:\Repositories\Core\MySampleCadastroProject\.vs\MySampleCadastroProject\lut\0\i\MySampleCadastroProject.Api\Debug\netcoreapp2.0\MySampleCadastroProject.Api.dll
+D:\Repositories\Core\MySampleCadastroProject\.vs\MySampleCadastroProject\lut\0\i\MySampleCadastroProject.Api\Debug\netcoreapp2.0\MySampleCadastroProject.Api.pdb
