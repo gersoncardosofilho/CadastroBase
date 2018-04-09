@@ -12,3 +12,4 @@ D:\Repositories\Core\MySampleCadastroProject\.vs\MySampleCadastroProject\lut\0\i
 D:\Repositories\Core\MySampleCadastroProject\.vs\MySampleCadastroProject\lut\0\i\MySampleCadastroProject.Tests\Debug\netcoreapp2.0\MySampleCadastroProject.Tests.csproj.CopyComplete
 D:\Repositories\Core\MySampleCadastroProject\.vs\MySampleCadastroProject\lut\0\i\MySampleCadastroProject.Tests\Debug\netcoreapp2.0\MySampleCadastroProject.Tests.dll
 D:\Repositories\Core\MySampleCadastroProject\.vs\MySampleCadastroProject\lut\0\i\MySampleCadastroProject.Tests\Debug\netcoreapp2.0\MySampleCadastroProject.Tests.pdb
+D:\Repositories\Core\MySampleCadastroProject\.vs\MySampleCadastroProject\lut\0\i\MySampleCadastroProject.Tests\Debug\netcoreapp2.0\MySampleCadastroProject.Tests.csprojResolveAssemblyReference.cache
