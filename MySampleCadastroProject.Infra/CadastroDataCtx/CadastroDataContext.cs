@@ -1,19 +1,25 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Data;
-using System.Text;
+using System.Data.SqlClient;
+using MySampleCadastroProject.Shared;
 
 namespace MySampleCadastroProject.Infra.CadastroDataCtx
 {
     public class CadastroDataContext : IDisposable
     {
+        public SqlConnection Connection { get; set; }
+
         public CadastroDataContext()
         {
-                ConnectionState = new OracleConne ction
+                Connection = new SqlConnection(Settings.ConnectionString);
+            Connection.OpenAsync();
         }
         public void Dispose()
         {
-            throw new NotImplementedException();
+            if (Connection.State != ConnectionState.Closed)
+            {
+                Connection.Close();
+            }
         }
     }
 }
