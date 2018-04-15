@@ -1,9 +1,0 @@
-D:\Repositories\Core\MySampleCadastroProject\.vs\MySampleCadastroProject\lut\0\b\MySampleCadastroProject.Infra\Debug\netcoreapp2.0\MySampleCadastroProject.Infra.deps.json
-D:\Repositories\Core\MySampleCadastroProject\.vs\MySampleCadastroProject\lut\0\b\MySampleCadastroProject.Infra\Debug\netcoreapp2.0\MySampleCadastroProject.Infra.dll
-D:\Repositories\Core\MySampleCadastroProject\.vs\MySampleCadastroProject\lut\0\b\MySampleCadastroProject.Infra\Debug\netcoreapp2.0\MySampleCadastroProject.Infra.pdb
-D:\Repositories\Core\MySampleCadastroProject\.vs\MySampleCadastroProject\lut\0\i\MySampleCadastroProject.Infra\Debug\netcoreapp2.0\MySampleCadastroProject.Infra.csproj.CoreCompileInputs.cache
-D:\Repositories\Core\MySampleCadastroProject\.vs\MySampleCadastroProject\lut\0\i\MySampleCadastroProject.Infra\Debug\netcoreapp2.0\MySampleCadastroProject.Infra.AssemblyInfoInputs.cache
-D:\Repositories\Core\MySampleCadastroProject\.vs\MySampleCadastroProject\lut\0\i\MySampleCadastroProject.Infra\Debug\netcoreapp2.0\MySampleCadastroProject.Infra.AssemblyInfo.cs
-D:\Repositories\Core\MySampleCadastroProject\.vs\MySampleCadastroProject\lut\0\i\MySampleCadastroProject.Infra\Debug\netcoreapp2.0\MySampleCadastroProject.Infra.csproj.CopyComplete
-D:\Repositories\Core\MySampleCadastroProject\.vs\MySampleCadastroProject\lut\0\i\MySampleCadastroProject.Infra\Debug\netcoreapp2.0\MySampleCadastroProject.Infra.dll
-D:\Repositories\Core\MySampleCadastroProject\.vs\MySampleCadastroProject\lut\0\i\MySampleCadastroProject.Infra\Debug\netcoreapp2.0\MySampleCadastroProject.Infra.pdb

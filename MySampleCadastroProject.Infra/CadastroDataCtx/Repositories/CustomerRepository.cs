@@ -34,7 +34,7 @@ namespace MySampleCadastroProject.Infra.CadastroDataCtx.Repositories
 
         public void DeleteCustomerAsync(Guid id)
         {
-            _context.Connection.D
+            
         }
 
         public void Save(Customer customer)

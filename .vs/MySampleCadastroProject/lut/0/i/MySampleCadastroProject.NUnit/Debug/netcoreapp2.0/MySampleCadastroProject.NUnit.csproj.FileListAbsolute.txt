@@ -1,0 +1,15 @@
+D:\Repositories\Core\MySampleCadastroProject\.vs\MySampleCadastroProject\lut\0\b\MySampleCadastroProject.NUnit\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+D:\Repositories\Core\MySampleCadastroProject\.vs\MySampleCadastroProject\lut\0\b\MySampleCadastroProject.NUnit\Debug\netcoreapp2.0\NUnit3.TestAdapter.pdb
+D:\Repositories\Core\MySampleCadastroProject\.vs\MySampleCadastroProject\lut\0\b\MySampleCadastroProject.NUnit\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+D:\Repositories\Core\MySampleCadastroProject\.vs\MySampleCadastroProject\lut\0\b\MySampleCadastroProject.NUnit\Debug\netcoreapp2.0\Mono.Cecil.dll
+D:\Repositories\Core\MySampleCadastroProject\.vs\MySampleCadastroProject\lut\0\b\MySampleCadastroProject.NUnit\Debug\netcoreapp2.0\MySampleCadastroProject.NUnit.deps.json
+D:\Repositories\Core\MySampleCadastroProject\.vs\MySampleCadastroProject\lut\0\b\MySampleCadastroProject.NUnit\Debug\netcoreapp2.0\MySampleCadastroProject.NUnit.runtimeconfig.json
+D:\Repositories\Core\MySampleCadastroProject\.vs\MySampleCadastroProject\lut\0\b\MySampleCadastroProject.NUnit\Debug\netcoreapp2.0\MySampleCadastroProject.NUnit.runtimeconfig.dev.json
+D:\Repositories\Core\MySampleCadastroProject\.vs\MySampleCadastroProject\lut\0\b\MySampleCadastroProject.NUnit\Debug\netcoreapp2.0\MySampleCadastroProject.NUnit.dll
+D:\Repositories\Core\MySampleCadastroProject\.vs\MySampleCadastroProject\lut\0\b\MySampleCadastroProject.NUnit\Debug\netcoreapp2.0\MySampleCadastroProject.NUnit.pdb
+D:\Repositories\Core\MySampleCadastroProject\.vs\MySampleCadastroProject\lut\0\i\MySampleCadastroProject.NUnit\Debug\netcoreapp2.0\MySampleCadastroProject.NUnit.csproj.CoreCompileInputs.cache
+D:\Repositories\Core\MySampleCadastroProject\.vs\MySampleCadastroProject\lut\0\i\MySampleCadastroProject.NUnit\Debug\netcoreapp2.0\MySampleCadastroProject.NUnit.AssemblyInfoInputs.cache
+D:\Repositories\Core\MySampleCadastroProject\.vs\MySampleCadastroProject\lut\0\i\MySampleCadastroProject.NUnit\Debug\netcoreapp2.0\MySampleCadastroProject.NUnit.AssemblyInfo.cs
+D:\Repositories\Core\MySampleCadastroProject\.vs\MySampleCadastroProject\lut\0\i\MySampleCadastroProject.NUnit\Debug\netcoreapp2.0\MySampleCadastroProject.NUnit.csproj.CopyComplete
+D:\Repositories\Core\MySampleCadastroProject\.vs\MySampleCadastroProject\lut\0\i\MySampleCadastroProject.NUnit\Debug\netcoreapp2.0\MySampleCadastroProject.NUnit.dll
+D:\Repositories\Core\MySampleCadastroProject\.vs\MySampleCadastroProject\lut\0\i\MySampleCadastroProject.NUnit\Debug\netcoreapp2.0\MySampleCadastroProject.NUnit.pdb
