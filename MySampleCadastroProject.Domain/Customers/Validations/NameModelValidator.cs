@@ -1,4 +1,7 @@
-﻿using FluentValidation;
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+using FluentValidation;
 using MySampleCadastroProject.Domain.Customers.VOs;
 
 namespace MySampleCadastroProject.Domain.Customers.Validations
@@ -12,32 +15,33 @@ namespace MySampleCadastroProject.Domain.Customers.Validations
 
         private void Initialize()
         {
-            FirstNameValidation();
-            LastNameValidation();
+            FirstNameModelValidation();
+            LastNameModelValidation();
+
         }
 
-        private void FirstNameValidation()
+        private void FirstNameModelValidation()
         {
-            RuleFor(c=>c.FirstName)
-                .NotEmpty()
+            RuleFor(c => c.FirstName)
                 .NotNull()
-                .WithMessage("Nome é obrigatório!")
-                .MinimumLength(2)
-                .WithMessage("Nome precisa ter pelo menos 2 caracteres!")
-                .MaximumLength(40)
-                .WithMessage("Nome pode ter no máximo 40 caracteres!");
+                .NotEmpty()
+                .WithMessage("Nome não pode ser nulo ou vazio.")
+                .MaximumLength(3)
+                .WithMessage("Nome precisa ter no mínimo 3 caracteres.")
+                .MaximumLength(50)
+                .WithMessage(" Nome não pode ter mais de 50 caracteres.");
         }
 
-        private void LastNameValidation()
+        private void LastNameModelValidation()
         {
             RuleFor(c => c.LastName)
-                .NotEmpty()
                 .NotNull()
-                .WithMessage("Sobrenome é obrigatório!")
-                .MinimumLength(2)
-                .WithMessage("Sobrenome precisa ter pelo menos 2 caracteres!")
-                .MaximumLength(40)
-                .WithMessage("Sobrenome pode ter no máximo 40 caracteres!");
+                .NotEmpty()
+                .WithMessage("Sobrenome não pode ser nulo ou vazio.")
+                .MaximumLength(3)
+                .WithMessage("Sobrenome precisa ter no mínimo 3 caracteres.")
+                .MaximumLength(50)
+                .WithMessage("Sobrenome não pode ter mais de 50 caracteres.");
         }
     }
 }

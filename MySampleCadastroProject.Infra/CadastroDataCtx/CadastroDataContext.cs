@@ -2,24 +2,36 @@
 using System.Data;
 using System.Data.SqlClient;
 using MySampleCadastroProject.Shared;
+using Oracle.ManagedDataAccess.Client;
 
 namespace MySampleCadastroProject.Infra.CadastroDataCtx
 {
     public class CadastroDataContext : IDisposable
     {
-        public SqlConnection Connection { get; set; }
+        public static OracleConnection _conn;
 
         public CadastroDataContext()
         {
-                Connection = new SqlConnection(Settings.ConnectionString);
-            Connection.OpenAsync();
+            Connection();
         }
+
+
         public void Dispose()
         {
-            if (Connection.State != ConnectionState.Closed)
+            if (_conn.State != ConnectionState.Closed)
             {
-                Connection.Close();
+                _conn.Close();
+                _conn.Dispose();
+                _conn = null;
+
             }
+        }
+
+        public void Connection()
+        {
+            _conn = new OracleConnection();
+            _conn.ConnectionString = Settings.ConnectionString;
+            _conn.Open();
         }
     }
 }

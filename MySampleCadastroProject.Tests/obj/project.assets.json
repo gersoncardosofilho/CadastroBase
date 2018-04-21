@@ -5858,26 +5858,23 @@
   },
   "packageFolders": {
     "C:\\Users\\gerso\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Repositories\\Core\\MySampleCadastroProject\\MySampleCadastroProject.Tests\\MySampleCadastroProject.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\gerso\\Source\\Repos\\CadastroBase\\MySampleCadastroProject.Tests\\MySampleCadastroProject.Tests.csproj",
       "projectName": "MySampleCadastroProject.Tests",
-      "projectPath": "D:\\Repositories\\Core\\MySampleCadastroProject\\MySampleCadastroProject.Tests\\MySampleCadastroProject.Tests.csproj",
+      "projectPath": "C:\\Users\\gerso\\Source\\Repos\\CadastroBase\\MySampleCadastroProject.Tests\\MySampleCadastroProject.Tests.csproj",
       "packagesPath": "C:\\Users\\gerso\\.nuget\\packages\\",
-      "outputPath": "D:\\Repositories\\Core\\MySampleCadastroProject\\MySampleCadastroProject.Tests\\obj\\",
+      "outputPath": "C:\\Users\\gerso\\Source\\Repos\\CadastroBase\\MySampleCadastroProject.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\gerso\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
@@ -5889,8 +5886,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "D:\\Repositories\\Core\\MySampleCadastroProject\\MySampleCadastroProject.Domain\\MySampleCadastroProject.Domain.csproj": {
-              "projectPath": "D:\\Repositories\\Core\\MySampleCadastroProject\\MySampleCadastroProject.Domain\\MySampleCadastroProject.Domain.csproj"
+            "C:\\Users\\gerso\\Source\\Repos\\CadastroBase\\MySampleCadastroProject.Domain\\MySampleCadastroProject.Domain.csproj": {
+              "projectPath": "C:\\Users\\gerso\\Source\\Repos\\CadastroBase\\MySampleCadastroProject.Domain\\MySampleCadastroProject.Domain.csproj"
             }
           }
         }

@@ -258,6 +258,15 @@
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
       },
+      "Oracle.ManagedDataAccess.Core/2.12.0-beta2": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Oracle.ManagedDataAccess.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Oracle.ManagedDataAccess.dll": {}
+        }
+      },
       "runtime.native.System.Data.SqlClient.sni/4.4.0": {
         "type": "package",
         "dependencies": {
@@ -1189,6 +1198,19 @@
         "lib/netstandard1.0/_._",
         "netstandard.library.2.0.0.nupkg.sha512",
         "netstandard.library.nuspec"
+      ]
+    },
+    "Oracle.ManagedDataAccess.Core/2.12.0-beta2": {
+      "sha512": "Rwi2ys28cMuE+X+fKd8Yp5O9yqHlvEj7EAtG5k1fXwQ8zqWkB79KD3U0Ff/HFYxlg492AD2R4QWtIUQYGyXZBQ==",
+      "type": "package",
+      "path": "oracle.manageddataaccess.core/2.12.0-beta2",
+      "files": [
+        "ODP.NET-Core-12.2-Beta2-Documentation.pdf",
+        "info.txt",
+        "lib/netstandard2.0/Oracle.ManagedDataAccess.dll",
+        "oracle.manageddataaccess.core.2.12.0-beta2.nupkg.sha512",
+        "oracle.manageddataaccess.core.nuspec",
+        "readme.txt"
       ]
     },
     "runtime.native.System.Data.SqlClient.sni/4.4.0": {
@@ -2767,31 +2789,29 @@
       "Dapper >= 1.50.4",
       "Microsoft.NETCore.App >= 2.0.0",
       "MySampleCadastroProject.Domain >= 1.0.0",
-      "MySampleCadastroProject.Shared >= 1.0.0"
+      "MySampleCadastroProject.Shared >= 1.0.0",
+      "Oracle.ManagedDataAccess.Core >= 2.12.0-beta2"
     ]
   },
   "packageFolders": {
     "C:\\Users\\gerso\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Repositories\\Core\\MySampleCadastroProject\\MySampleCadastroProject.Infra\\MySampleCadastroProject.Infra.csproj",
+      "projectUniqueName": "C:\\Users\\gerso\\Source\\Repos\\CadastroBase\\MySampleCadastroProject.Infra\\MySampleCadastroProject.Infra.csproj",
       "projectName": "MySampleCadastroProject.Infra",
-      "projectPath": "D:\\Repositories\\Core\\MySampleCadastroProject\\MySampleCadastroProject.Infra\\MySampleCadastroProject.Infra.csproj",
+      "projectPath": "C:\\Users\\gerso\\Source\\Repos\\CadastroBase\\MySampleCadastroProject.Infra\\MySampleCadastroProject.Infra.csproj",
       "packagesPath": "C:\\Users\\gerso\\.nuget\\packages\\",
-      "outputPath": "D:\\Repositories\\Core\\MySampleCadastroProject\\MySampleCadastroProject.Infra\\obj\\",
+      "outputPath": "C:\\Users\\gerso\\Source\\Repos\\CadastroBase\\MySampleCadastroProject.Infra\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\gerso\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
@@ -2803,11 +2823,11 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "D:\\Repositories\\Core\\MySampleCadastroProject\\MySampleCadastroProject.Domain\\MySampleCadastroProject.Domain.csproj": {
-              "projectPath": "D:\\Repositories\\Core\\MySampleCadastroProject\\MySampleCadastroProject.Domain\\MySampleCadastroProject.Domain.csproj"
+            "C:\\Users\\gerso\\Source\\Repos\\CadastroBase\\MySampleCadastroProject.Domain\\MySampleCadastroProject.Domain.csproj": {
+              "projectPath": "C:\\Users\\gerso\\Source\\Repos\\CadastroBase\\MySampleCadastroProject.Domain\\MySampleCadastroProject.Domain.csproj"
             },
-            "D:\\Repositories\\Core\\MySampleCadastroProject\\MySampleCadastroProject.Shared\\MySampleCadastroProject.Shared.csproj": {
-              "projectPath": "D:\\Repositories\\Core\\MySampleCadastroProject\\MySampleCadastroProject.Shared\\MySampleCadastroProject.Shared.csproj"
+            "C:\\Users\\gerso\\Source\\Repos\\CadastroBase\\MySampleCadastroProject.Shared\\MySampleCadastroProject.Shared.csproj": {
+              "projectPath": "C:\\Users\\gerso\\Source\\Repos\\CadastroBase\\MySampleCadastroProject.Shared\\MySampleCadastroProject.Shared.csproj"
             }
           }
         }
@@ -2830,6 +2850,10 @@
             "target": "Package",
             "version": "[2.0.0, )",
             "autoReferenced": true
+          },
+          "Oracle.ManagedDataAccess.Core": {
+            "target": "Package",
+            "version": "[2.12.0-beta2, )"
           }
         },
         "imports": [

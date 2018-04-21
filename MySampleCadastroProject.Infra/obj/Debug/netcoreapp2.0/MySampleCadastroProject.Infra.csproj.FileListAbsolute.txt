@@ -12,3 +12,17 @@ D:\Repositories\Core\MySampleCadastroProject\MySampleCadastroProject.Infra\obj\D
 D:\Repositories\Core\MySampleCadastroProject\MySampleCadastroProject.Infra\bin\Debug\netcoreapp2.0\MySampleCadastroProject.Infra.pdb
 D:\Repositories\Core\MySampleCadastroProject\MySampleCadastroProject.Infra\obj\Debug\netcoreapp2.0\MySampleCadastroProject.Infra.dll
 D:\Repositories\Core\MySampleCadastroProject\MySampleCadastroProject.Infra\obj\Debug\netcoreapp2.0\MySampleCadastroProject.Infra.pdb
+C:\Users\gerso\Source\Repos\CadastroBase\MySampleCadastroProject.Infra\bin\Debug\netcoreapp2.0\MySampleCadastroProject.Infra.deps.json
+C:\Users\gerso\Source\Repos\CadastroBase\MySampleCadastroProject.Infra\bin\Debug\netcoreapp2.0\MySampleCadastroProject.Infra.dll
+C:\Users\gerso\Source\Repos\CadastroBase\MySampleCadastroProject.Infra\bin\Debug\netcoreapp2.0\MySampleCadastroProject.Infra.pdb
+C:\Users\gerso\Source\Repos\CadastroBase\MySampleCadastroProject.Infra\bin\Debug\netcoreapp2.0\MySampleCadastroProject.Domain.dll
+C:\Users\gerso\Source\Repos\CadastroBase\MySampleCadastroProject.Infra\bin\Debug\netcoreapp2.0\MySampleCadastroProject.Shared.dll
+C:\Users\gerso\Source\Repos\CadastroBase\MySampleCadastroProject.Infra\bin\Debug\netcoreapp2.0\MySampleCadastroProject.Domain.pdb
+C:\Users\gerso\Source\Repos\CadastroBase\MySampleCadastroProject.Infra\bin\Debug\netcoreapp2.0\MySampleCadastroProject.Shared.pdb
+C:\Users\gerso\Source\Repos\CadastroBase\MySampleCadastroProject.Infra\obj\Debug\netcoreapp2.0\MySampleCadastroProject.Infra.csprojResolveAssemblyReference.cache
+C:\Users\gerso\Source\Repos\CadastroBase\MySampleCadastroProject.Infra\obj\Debug\netcoreapp2.0\MySampleCadastroProject.Infra.csproj.CoreCompileInputs.cache
+C:\Users\gerso\Source\Repos\CadastroBase\MySampleCadastroProject.Infra\obj\Debug\netcoreapp2.0\MySampleCadastroProject.Infra.AssemblyInfoInputs.cache
+C:\Users\gerso\Source\Repos\CadastroBase\MySampleCadastroProject.Infra\obj\Debug\netcoreapp2.0\MySampleCadastroProject.Infra.AssemblyInfo.cs
+C:\Users\gerso\Source\Repos\CadastroBase\MySampleCadastroProject.Infra\obj\Debug\netcoreapp2.0\MySampleCadastroProject.Infra.csproj.CopyComplete
+C:\Users\gerso\Source\Repos\CadastroBase\MySampleCadastroProject.Infra\obj\Debug\netcoreapp2.0\MySampleCadastroProject.Infra.dll
+C:\Users\gerso\Source\Repos\CadastroBase\MySampleCadastroProject.Infra\obj\Debug\netcoreapp2.0\MySampleCadastroProject.Infra.pdb

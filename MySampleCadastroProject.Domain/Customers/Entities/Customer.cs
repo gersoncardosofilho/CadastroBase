@@ -26,8 +26,7 @@ namespace MySampleCadastroProject.Domain.Customers.Entities
         public Name Name { get; private set; }
         public string Email { get; private set; }
         public string Phone { get; private set; }
-        public Guid DocumentId { get; private set; }
-
+        
 
     }
 }

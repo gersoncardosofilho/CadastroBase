@@ -9,3 +9,14 @@ D:\Repositories\Core\MySampleCadastroProject\MySampleCadastroProject.Api\MySampl
 D:\Repositories\Core\MySampleCadastroProject\MySampleCadastroProject.Api\MySampleCadastroProject.Api\obj\Debug\netcoreapp2.0\MySampleCadastroProject.Api.AssemblyInfo.cs
 D:\Repositories\Core\MySampleCadastroProject\MySampleCadastroProject.Api\MySampleCadastroProject.Api\obj\Debug\netcoreapp2.0\MySampleCadastroProject.Api.dll
 D:\Repositories\Core\MySampleCadastroProject\MySampleCadastroProject.Api\MySampleCadastroProject.Api\obj\Debug\netcoreapp2.0\MySampleCadastroProject.Api.pdb
+C:\Users\gerso\Source\Repos\CadastroBase\MySampleCadastroProject.Api\MySampleCadastroProject.Api\bin\Debug\netcoreapp2.0\MySampleCadastroProject.Api.deps.json
+C:\Users\gerso\Source\Repos\CadastroBase\MySampleCadastroProject.Api\MySampleCadastroProject.Api\bin\Debug\netcoreapp2.0\MySampleCadastroProject.Api.runtimeconfig.json
+C:\Users\gerso\Source\Repos\CadastroBase\MySampleCadastroProject.Api\MySampleCadastroProject.Api\bin\Debug\netcoreapp2.0\MySampleCadastroProject.Api.runtimeconfig.dev.json
+C:\Users\gerso\Source\Repos\CadastroBase\MySampleCadastroProject.Api\MySampleCadastroProject.Api\bin\Debug\netcoreapp2.0\MySampleCadastroProject.Api.dll
+C:\Users\gerso\Source\Repos\CadastroBase\MySampleCadastroProject.Api\MySampleCadastroProject.Api\bin\Debug\netcoreapp2.0\MySampleCadastroProject.Api.pdb
+C:\Users\gerso\Source\Repos\CadastroBase\MySampleCadastroProject.Api\MySampleCadastroProject.Api\obj\Debug\netcoreapp2.0\MySampleCadastroProject.Api.csprojResolveAssemblyReference.cache
+C:\Users\gerso\Source\Repos\CadastroBase\MySampleCadastroProject.Api\MySampleCadastroProject.Api\obj\Debug\netcoreapp2.0\MySampleCadastroProject.Api.csproj.CoreCompileInputs.cache
+C:\Users\gerso\Source\Repos\CadastroBase\MySampleCadastroProject.Api\MySampleCadastroProject.Api\obj\Debug\netcoreapp2.0\MySampleCadastroProject.Api.AssemblyInfoInputs.cache
+C:\Users\gerso\Source\Repos\CadastroBase\MySampleCadastroProject.Api\MySampleCadastroProject.Api\obj\Debug\netcoreapp2.0\MySampleCadastroProject.Api.AssemblyInfo.cs
+C:\Users\gerso\Source\Repos\CadastroBase\MySampleCadastroProject.Api\MySampleCadastroProject.Api\obj\Debug\netcoreapp2.0\MySampleCadastroProject.Api.dll
+C:\Users\gerso\Source\Repos\CadastroBase\MySampleCadastroProject.Api\MySampleCadastroProject.Api\obj\Debug\netcoreapp2.0\MySampleCadastroProject.Api.pdb

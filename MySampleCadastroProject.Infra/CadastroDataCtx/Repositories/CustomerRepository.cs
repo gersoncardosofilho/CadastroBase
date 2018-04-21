@@ -20,16 +20,16 @@ namespace MySampleCadastroProject.Infra.CadastroDataCtx.Repositories
 
         public IEnumerable<Customer> GetAllCustomerAsync()
         {
-
+            return _context.Connection.Query
             return
                 _context
-                    .Connection
+                    .
                     .Query<Customer>("SELECT * FROM [tbCustomers]", new { });
         }
 
         public Customer GetCustomerById(Guid id)
         {
-            return _context.Connection.QueryFirstOrDefault<Customer>("SELECT * from tbCustomers where Id = @id");
+            return _context..QueryFirstOrDefault<Customer>("SELECT * from tbCustomers where Id = @id");
         }
 
         public void DeleteCustomerAsync(Guid id)

@@ -7,3 +7,12 @@ D:\Repositories\Core\MySampleCadastroProject\MySampleCadastroProject.Shared\obj\
 D:\Repositories\Core\MySampleCadastroProject\MySampleCadastroProject.Shared\obj\Debug\netcoreapp2.0\MySampleCadastroProject.Shared.AssemblyInfo.cs
 D:\Repositories\Core\MySampleCadastroProject\MySampleCadastroProject.Shared\obj\Debug\netcoreapp2.0\MySampleCadastroProject.Shared.dll
 D:\Repositories\Core\MySampleCadastroProject\MySampleCadastroProject.Shared\obj\Debug\netcoreapp2.0\MySampleCadastroProject.Shared.pdb
+C:\Users\gerso\Source\Repos\CadastroBase\MySampleCadastroProject.Shared\bin\Debug\netcoreapp2.0\MySampleCadastroProject.Shared.deps.json
+C:\Users\gerso\Source\Repos\CadastroBase\MySampleCadastroProject.Shared\bin\Debug\netcoreapp2.0\MySampleCadastroProject.Shared.dll
+C:\Users\gerso\Source\Repos\CadastroBase\MySampleCadastroProject.Shared\bin\Debug\netcoreapp2.0\MySampleCadastroProject.Shared.pdb
+C:\Users\gerso\Source\Repos\CadastroBase\MySampleCadastroProject.Shared\obj\Debug\netcoreapp2.0\MySampleCadastroProject.Shared.csprojResolveAssemblyReference.cache
+C:\Users\gerso\Source\Repos\CadastroBase\MySampleCadastroProject.Shared\obj\Debug\netcoreapp2.0\MySampleCadastroProject.Shared.csproj.CoreCompileInputs.cache
+C:\Users\gerso\Source\Repos\CadastroBase\MySampleCadastroProject.Shared\obj\Debug\netcoreapp2.0\MySampleCadastroProject.Shared.AssemblyInfoInputs.cache
+C:\Users\gerso\Source\Repos\CadastroBase\MySampleCadastroProject.Shared\obj\Debug\netcoreapp2.0\MySampleCadastroProject.Shared.AssemblyInfo.cs
+C:\Users\gerso\Source\Repos\CadastroBase\MySampleCadastroProject.Shared\obj\Debug\netcoreapp2.0\MySampleCadastroProject.Shared.dll
+C:\Users\gerso\Source\Repos\CadastroBase\MySampleCadastroProject.Shared\obj\Debug\netcoreapp2.0\MySampleCadastroProject.Shared.pdb

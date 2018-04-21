@@ -665,26 +665,23 @@
   },
   "packageFolders": {
     "C:\\Users\\gerso\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Repositories\\Core\\MySampleCadastroProject\\MySampleCadastroProject.Shared\\MySampleCadastroProject.Shared.csproj",
+      "projectUniqueName": "C:\\Users\\gerso\\Source\\Repos\\CadastroBase\\MySampleCadastroProject.Shared\\MySampleCadastroProject.Shared.csproj",
       "projectName": "MySampleCadastroProject.Shared",
-      "projectPath": "D:\\Repositories\\Core\\MySampleCadastroProject\\MySampleCadastroProject.Shared\\MySampleCadastroProject.Shared.csproj",
+      "projectPath": "C:\\Users\\gerso\\Source\\Repos\\CadastroBase\\MySampleCadastroProject.Shared\\MySampleCadastroProject.Shared.csproj",
       "packagesPath": "C:\\Users\\gerso\\.nuget\\packages\\",
-      "outputPath": "D:\\Repositories\\Core\\MySampleCadastroProject\\MySampleCadastroProject.Shared\\obj\\",
+      "outputPath": "C:\\Users\\gerso\\Source\\Repos\\CadastroBase\\MySampleCadastroProject.Shared\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\gerso\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"

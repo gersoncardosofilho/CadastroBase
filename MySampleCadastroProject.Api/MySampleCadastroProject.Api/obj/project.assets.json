@@ -6327,7 +6327,7 @@
       ]
     },
     "Microsoft.Extensions.DependencyInjection/2.0.0": {
-      "sha512": "xAsF+f/UxUhRSeihmnVnYwsMlYnCrIOP26SwNgP8SCdAwhjKKHp39+cElNSTb/Y1cAYBXm/QbnP5ktezpwFm5Q==",
+      "sha512": "wakg18gHYiUL1pcjjyZuYk6OvDpbSw1E7IWxm78TMepsr+gQ8W0tWzuRm0q/9RFblngwPwo15rrgZSUV51W5Iw==",
       "type": "package",
       "path": "microsoft.extensions.dependencyinjection/2.0.0",
       "files": [
@@ -12146,7 +12146,7 @@
       ]
     },
     "System.ValueTuple/4.4.0": {
-      "sha512": "PWJurG8wvQ4HkQ66t5p5yyusFAbY6TUJjMXapJQDa+Se6HEQLAZqtB9+KxOEXWRyAIuoKUm4tqyCLGrPENB3Aw==",
+      "sha512": "BahUww/+mdP4ARCAh2RQhQTg13wYLVrBb9SYVgW8ZlrwjraGCXHGjo0oIiUfZ34LUZkMMR+RAzR7dEY4S1HeQQ==",
       "type": "package",
       "path": "system.valuetuple/4.4.0",
       "files": [
@@ -12327,7 +12327,7 @@
       ]
     },
     "System.Xml.XmlDocument/4.3.0": {
-      "sha512": "PsKiyGzVz8+NioMO6y7p3X/Ay376JBgToQG4M2qA0Guu6bDKzBsnbJKMjm6vEUzCxrLK84Ooz9KDH6HAGNwRpw==",
+      "sha512": "lJ8AxvkX7GQxpC6GFCeBj8ThYVyQczx2+f/cWHJU8tjS7YfI6Cv6bon70jVEgs2CiFbmmM8b9j1oZVx0dSI2Ww==",
       "type": "package",
       "path": "system.xml.xmldocument/4.3.0",
       "files": [
@@ -12537,26 +12537,23 @@
   },
   "packageFolders": {
     "C:\\Users\\gerso\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Repositories\\Core\\MySampleCadastroProject\\MySampleCadastroProject.Api\\MySampleCadastroProject.Api\\MySampleCadastroProject.Api.csproj",
+      "projectUniqueName": "C:\\Users\\gerso\\Source\\Repos\\CadastroBase\\MySampleCadastroProject.Api\\MySampleCadastroProject.Api\\MySampleCadastroProject.Api.csproj",
       "projectName": "MySampleCadastroProject.Api",
-      "projectPath": "D:\\Repositories\\Core\\MySampleCadastroProject\\MySampleCadastroProject.Api\\MySampleCadastroProject.Api\\MySampleCadastroProject.Api.csproj",
+      "projectPath": "C:\\Users\\gerso\\Source\\Repos\\CadastroBase\\MySampleCadastroProject.Api\\MySampleCadastroProject.Api\\MySampleCadastroProject.Api.csproj",
       "packagesPath": "C:\\Users\\gerso\\.nuget\\packages\\",
-      "outputPath": "D:\\Repositories\\Core\\MySampleCadastroProject\\MySampleCadastroProject.Api\\MySampleCadastroProject.Api\\obj\\",
+      "outputPath": "C:\\Users\\gerso\\Source\\Repos\\CadastroBase\\MySampleCadastroProject.Api\\MySampleCadastroProject.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\gerso\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"

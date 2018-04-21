@@ -15,8 +15,14 @@ namespace MySampleCadastroProject.Domain.Customers.Validations
 
         private void Initialize()
         {
+            NameValidation();
             EmailValidation();
             PhoneValidation();
+        }
+
+        public void NameValidation()
+        {
+            RuleFor(c => c.Name).SetValidator(new NameModelValidator());
         }
 
         private void EmailValidation()
